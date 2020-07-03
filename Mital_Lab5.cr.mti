@@ -1,0 +1,36 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VCA_Controller.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VCA_Controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module VGA_Controller
+
+Top level modules:
+	VGA_Controller
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VGA_Controller_Game.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VGA_Controller_Game.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module VGA_Controller_Game
+
+Top level modules:
+	VGA_Controller_Game
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Lab3_checkout/Lab3_turnIn/ClkDivider.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Lab3_checkout/Lab3_turnIn/ClkDivider.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ClkDivider
+
+Top level modules:
+	ClkDivider
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab5/top.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab5/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/rmita/Desktop/EE460M/Mital_Lab5/Game_Engine.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab5/Game_Engine.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Game_Engine
+
+Top level modules:
+	Game_Engine
+
+} {} {}}

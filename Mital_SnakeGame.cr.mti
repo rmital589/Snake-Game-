@@ -1,0 +1,8 @@
+C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VGA_Controller_Game.v {1 {vlog -work work -stats=none C:/Users/rmita/Desktop/EE460M/Mital_Lab5/VGA_Controller_Game.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module VGA_Controller
+
+Top level modules:
+	VGA_Controller
+
+} {} {}}
